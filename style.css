@@ -1,0 +1,233 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Poppins', sans-serif;
+
+} 
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+#text1 {
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+.container img {
+    filter: blur(8px);
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.link {
+    text-decoration: none;
+    font-weight: 700;
+    background-color: rgb(255, 0, 0);
+    color: rgb(248, 242, 242);
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+
+.donate {
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.wholedonation {
+    margin: 10px 200px 10px 200px;
+    border: 2px solid none;
+    border-radius: 10px;
+}
+
+.amount {
+    display: flex;
+    align-content: center;
+    margin-left: 20;
+    margin-right: 20;
+}
+
+.tk {
+    font-size: 30px;
+    text-decoration: solid;
+    color: gray;
+    width: 20%;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 20px;
+}
+
+.tk3 {
+    color: red;
+    background-color: rgb(252, 197, 197);
+    border: 2px solid red;
+    border-radius: 10px;
+
+}
+
+#other {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 70px;
+    border-bottom: 1px solid black;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.link2 {
+    margin: 20px 10px 300px 400px;
+    text-decoration: none;
+    font-weight: 700;
+    background-color: rgb(255, 1, 1);
+    color: rgb(248, 242, 242);
+    padding: 10px 30px;
+    border-radius: 4px;
+}
+
+.link3 {
+
+
+    text-decoration: none;
+    font-weight: 700;
+    background-color: rgb(255, 5, 5);
+    color: rgb(248, 242, 242);
+    padding: 10px 30px;
+    border-radius: 4px;
+}
+
+.donateplan {
+    text-align: center;
+    margin: 20px 200px 20px 200px;
+}
+
+
+
+.input {
+    text-align: center;
+}
+
+#mail {
+    border-radius: 5px;
+    padding-right: 10px;
+    padding: 14px;
+    border: none;
+    background-color: rgb(243, 243, 243);
+}
+
+.colorinput {
+    margin-left: 340px;
+    height: 200px;
+    width: 700px;
+    background-color: rgb(243, 219, 203);
+}
+
+#subscribe {
+    margin-left: 0px;
+    border-radius: 5px;
+    padding-right: 10px;
+    border: none;
+    font-size: 15px;
+    color: white;
+    padding: 10px;
+    background-color: rgb(255, 10, 10);
+}
+
+.FoodEduShelt {
+    display: flex;
+}
+
+#food {
+    margin: 5%;
+    padding: 25px 25px;
+    background-color: rgb(193, 219, 230);
+}
+
+#foodicon {
+    margin-left: 30px;
+}
+
+.foodtext {
+    margin-left: 30px;
+}
+
+#shalter {
+    margin: 5%;
+    padding: 25px 35px;
+    background-color: rgb(230, 193, 213);
+}
+
+#shaltericon {
+    margin-left: 30px;
+}
+
+.shaltertext {
+    margin-left: 30px;
+}
+
+#education {
+    margin: 5%;
+    padding: 25px 25px;
+    background-color: rgb(193, 230, 199);
+}
+
+#educationicon {
+    height: 50px;
+    width: 80px;
+    margin-left: 30px;
+}
+
+.educationtext {
+    margin-left: 30px;
+}
+
+#footer {
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(58, 53, 66);
+    width: 100%;
+    height: 250px;
+}
+
+.humanity {
+    width: 50%;
+    margin-left: 30px;
+}
+
+.vlog1 {
+    margin-left: 80px;
+    height: 450px;
+    width: 450px;
+}
+
+.vlog {
+    display: flex;
+}
+
+#end {
+
+    color: white;
+}
+
+#footcolor {
+
+    color: rgb(235, 113, 133);
+}
